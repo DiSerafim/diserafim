@@ -1,6 +1,6 @@
-# Olá, fique à vontade para saber um pouco sobre mim 👋
+# Olá, Seja bem vindo(a) 👋
 
-### Sobre mim
+### Um pouco sobre mim
 
 - 🧔🏽 35 anos, de Belém, Pará, Brasil
 - 🌱 Atualmente estou estudando para me tornar um desenvolvedor web Full Stack 
