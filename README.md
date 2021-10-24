@@ -16,7 +16,7 @@
   </li>
   <li>
     <img alt="trybe" width="24px" src="https://scontent.fssa13-1.fna.fbcdn.net/v/t1.6435-9/129351852_2818690001753270_85015407846271114_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=OMCcrmH11QEAX-iUoDl&_nc_ht=scontent.fssa13-1.fna&oh=b3575de3b0b3772d8a2d83657663e83b&oe=619971DC" />
-    <span><a href="https://www.betrybe.com/">Trybe</a>. Nota geral: <strong>99%</strong> [2021-2022]. Certificados: <a href="https://www.credential.net/profile/diegoserafimdesousa970614/wallet" target="_blank" rel="noreferrer">Aqui</a></span>
+    <span><a href="https://www.betrybe.com/">Trybe</a>. Nota geral: <strong>em andamento..</strong> [2021-2022]. Certificados: <a href="https://www.credential.net/profile/diegoserafimdesousa970614/wallet" target="_blank" rel="noreferrer">Aqui</a></span>
   </li>
 </ul>
 
