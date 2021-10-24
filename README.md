@@ -45,8 +45,8 @@
 
 <div align="center">
   <a href="https://github.com/DiSerafim">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiSerafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiSerafim&layout=compact&langs_count=7&theme=dracula"/>
+  <img title="Estatisticas" height="150em" src="https://github-readme-stats.vercel.app/api?username=DiSerafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img title="Linguagens + usadas" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiSerafim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <br />
@@ -54,8 +54,8 @@
 ### Contate-me!
 <div> 
 
-  <a href = "mailto:diegoserafim1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-serafim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:diegoserafim1@gmail.com"><img title="Email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-serafim/" target="_blank"><img title="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
