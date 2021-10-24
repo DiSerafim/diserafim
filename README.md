@@ -23,21 +23,21 @@
 
 ### Linguagens e Ferramentas
 
-<img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png" />
-<img title="HTML5" align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/html5.png" />
-<img title="CSS3" align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/css3.png" />
-<img title="Sass" align="left" alt="Sass" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sass.png" />
-<img title="JavaScript" align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/javascript.png" />
-<img title="Typescript" align="left" alt="Typescript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/typescript.png" />
-<img title="React" align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react.png" />
-<img title="Redux" align="left" alt="Redux" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/redux.png" />
-<img title="Jest" align="left" alt="Jest" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
-<img title="SQL" align="left" alt="SQL" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sql.png" />
-<img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/mongodb.png" />
-<img title="Git" align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png" />
-<img title="python" align="left" alt="python" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/python.png" />
-<img title="GitHub" align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
-<img title="Terminal" align="left" alt="Terminal" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/terminal.png" />
+<img title="VS Code" align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/vscode.png" />
+<img title="HTML5" align="left" alt="HTML5" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/html5.png" />
+<img title="CSS3" align="left" alt="CSS3" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/css3.png" />
+<img title="Sass" align="left" alt="Sass" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/sass.png" />
+<img title="JavaScript" align="left" alt="JavaScript" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/javascript.png" />
+<img title="Typescript" align="left" alt="Typescript" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/typescript.png" />
+<img title="React" align="left" alt="React" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/react.png" />
+<img title="Redux" align="left" alt="Redux" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/redux.png" />
+<img title="Jest" align="left" alt="Jest" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/jest.png" />
+<img title="SQL" align="left" alt="SQL" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/sql.png" />
+<img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/mongodb.png" />
+<img title="Git" align="left" alt="Git" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/git.png" />
+<img title="python" align="left" alt="python" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/python.png" />
+<img title="GitHub" align="left" alt="GitHub" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/github.png" />
+<img title="Terminal" align="left" alt="Terminal" width="26px" src="https://github.com/DiSerafim/treinando/blob/master/icons/terminal.png" />
 
 <br />
 <br />
