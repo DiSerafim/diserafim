@@ -45,8 +45,8 @@
 
 <div align="center">
   <a href="https://github.com/DiSerafim">
-  <img title="Estatisticas" height="123em" src="https://github-readme-stats.vercel.app/api?username=DiSerafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img title="Linguagens + usadas" height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiSerafim&layout=compact&langs_count=7&theme=dracula"/>
+  <img title="Estatisticas" height="130em" width="250em" src="https://github-readme-stats.vercel.app/api?username=DiSerafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img title="Linguagens + usadas" height="130em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiSerafim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <br />
