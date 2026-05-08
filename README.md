@@ -18,7 +18,7 @@
   </li>
   <li>
     <img alt="trybe" width="24px" src="https://www.betrybe.com/static/icons/favicon-ios.png" />
-    <span><a href="https://www.betrybe.com/">Trybe</a>. Nota geral: <strong>em andamento..</strong> [2021-2022]. Certificados: <a href="https://www.credential.net/profile/diegoserafimdesousa970614/wallet" target="_blank" rel="noreferrer">Aqui</a></span>
+    <span><a href="https://www.betrybe.com/">Trybe</a>. Nota geral: <strong>em andamento..</strong> [2021-2022]. Certificados: <a href="[https://www.credential.net/profile/diegoserafimdesousa970614/wallet](https://www.credential.net/profile/diserafim/wallet)" target="_blank" rel="noreferrer">Aqui</a></span>
   </li>
 </ul>
 
