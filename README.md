@@ -54,27 +54,28 @@
 <div align="center">
   <table border="0">
     <tr>
-      <!-- Coluna 1: Estatísticas Gerais -->
+      <!-- Cartão 1: Linguagens mais usadas -->
       <td align="center" valign="top">
-        <a href="https://github.com" target="_blank">
-          <img title="Estatísticas Gerais" height="155em" src="https://vercel.app"/>
+        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github" target="_blank">
+          <img title="Linguagens + usadas" height="150em" src="https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github"/>
         </a>
       </td>
-      <!-- Coluna 2: Linguagens mais Usadas -->
+      <!-- Cartão 2: Estatísticas detalhadas -->
       <td align="center" valign="top">
-        <a href="https://github.com" target="_blank">
-          <img title="Linguagens + usadas" height="155em" src="https://vercel.app"/>
+        <a href="https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github" target="_blank">
+          <img title="Estatísticas Gerais" height="150em" src="https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github"/>
         </a>
       </td>
-      <!-- Coluna 3: Repositório em Destaque -->
+      <!-- Cartão 3: Repositório Pinado -->
       <td align="center" valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-          <img title="Repositório em Destaque" height="155em" src="https://vercel.app"/>
+          <img title="Repositório em Destaque" height="150em" src="https://github-stats-extended.vercel.app/api/pin?username=DiSerafim&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&description_lines_count=1&disable_animations=false&theme=light_github_repocard"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
   
 <br />
