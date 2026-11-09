@@ -50,6 +50,32 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=DiSerafim&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&description_lines_count=1&disable_animations=false&theme=light_github_repocard)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- Coluna 1: Estatísticas Gerais -->
+      <td align="center" valign="top">
+        <a href="https://github.com" target="_blank">
+          <img title="Estatísticas Gerais" height="155em" src="https://vercel.app"/>
+        </a>
+      </td>
+      <!-- Coluna 2: Linguagens mais Usadas -->
+      <td align="center" valign="top">
+        <a href="https://github.com" target="_blank">
+          <img title="Linguagens + usadas" height="155em" src="https://vercel.app"/>
+        </a>
+      </td>
+      <!-- Coluna 3: Repositório em Destaque -->
+      <td align="center" valign="top">
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+          <img title="Repositório em Destaque" height="155em" src="https://vercel.app"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
   
 <br />
 
