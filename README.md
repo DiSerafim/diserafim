@@ -48,6 +48,8 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=DiSerafim&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&description_lines_count=1&disable_animations=false&theme=light_github_repocard)](https://github.com/anuraghazra/github-readme-stats)
   
 <br />
 
