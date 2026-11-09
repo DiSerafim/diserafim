@@ -45,12 +45,15 @@
 <br />
 <br />
 
+// [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github)
+
 <div align="center">
-  <a href="https://github.com/DiSerafim" target="_blank">
+  <a href="https://github.com" target="_blank">
     <img title="Estatisticas" height="130em" src="https://vercel.app"/>
     <img title="Linguagens + usadas" height="130em" src="https://vercel.app"/>
   </a>
 </div>
+
   
 <br />
 
