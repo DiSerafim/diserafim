@@ -46,25 +46,23 @@
 <br />
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <!-- Cartão 1: Linguagens mais usadas -->
-      <td align="center" valign="top">
-        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github" target="_blank">
-          <img title="Linguagens + usadas" height="150em" src="https://github-stats-extended.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github"/>
+      <!-- Cartão 1: Linguagens mais usadas (50% de largura) -->
+      <td align="center" valign="top" width="50%">
+        <a href="https://vercel.app" target="_blank">
+          <img title="Linguagens + usadas" style="max-height: 165em; width: 100%; object-fit: contain;" src="https://vercel.app"/>
         </a>
       </td>
-      <!-- Cartão 2: Estatísticas detalhadas -->
-      <td align="center" valign="top">
-        <a href="https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github" target="_blank">
-          <img title="Estatísticas Gerais" height="150em" src="https://github-stats-extended.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github"/>
+      <!-- Cartão 2: Estatísticas detalhadas (50% de largura) -->
+      <td align="center" valign="top" width="50%">
+        <a href="https://vercel.app" target="_blank">
+          <img title="Estatísticas Gerais" style="max-height: 165em; width: 100%; object-fit: contain;" src="https://vercel.app"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
-
-
   
 <br />
 
