@@ -61,15 +61,11 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <!-- Cartão 3: Repositório Pinado -->
-      <td align="center" valign="top">
-        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-          <img title="Repositório em Destaque" height="150em" src="https://github-stats-extended.vercel.app/api/pin?username=DiSerafim&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&description_lines_count=1&disable_animations=false&theme=light_github_repocard"/>
-        </a>
-      </td>
-    </tr>
   </table>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img title="Repositório em Destaque" height="150em" src="https://github-stats-extended.vercel.app/api/pin?username=DiSerafim&repo=anuraghazra%2Fgithub-readme-stats&show_owner=true&description_lines_count=1&disable_animations=false&theme=light_github_repocard"/>
+  </a>
 </div>
 
 
