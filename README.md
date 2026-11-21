@@ -69,17 +69,6 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <!-- Cartão 3: Tempo de desenvolvimento (WakaTime) -->
-      <td align="center" valign="top" colspan="2">
-        <a href="https://backend-three-phi-87&#46;vercel&#46;app/api/wakatime?username=DiSerafim&theme=light_github" target="_blank">
-          <img
-            title="Tempo de Desenvolvimento (WakaTime)"
-            src="https://backend-three-phi-87&#46;vercel&#46;app/api/wakatime?username=DiSerafim&theme=light_github"
-          />
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
   
