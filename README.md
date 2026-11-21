@@ -45,7 +45,7 @@
 <br />
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <table border="0" width="100%">
     <tr>
       <!-- Cartão 1: Linguagens mais usadas (50% da largura) -->
@@ -62,7 +62,26 @@
       </td>
     </tr>
   </table>
+</div> -->
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <!-- Cartão 1: Linguagens mais usadas (50% da largura) -->
+      <td align="center" valign="top" width="50%">
+        <a href="https://vercel.app" target="_blank">
+          <img title="Linguagens + usadas" height="400" src="https://vercel.app"/>
+        </a>
+      </td>
+      <!-- Cartão 2: Estatísticas detalhadas (50% da largura) -->
+      <td align="center" valign="top" width="50%">
+        <a href="https://vercel.app" target="_blank">
+          <img title="Estatísticas Gerais" height="400" src="https://vercel.app"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
   
 <br />
 
