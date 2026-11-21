@@ -48,6 +48,7 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
+      <!-- Cartão 1: Linguagens mais usadas -->
       <td align="center" valign="top" width="50%">
         <a href="https://backend-three-phi-87&#46;vercel&#46;app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github" target="_blank">
           <img
@@ -57,6 +58,7 @@
           />
         </a>
       </td>
+      <!-- Cartão 2: Estatísticas detalhadas -->
       <td align="center" valign="top" width="50%">
         <a href="https://backend-three-phi-87&#46;vercel&#46;app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github" target="_blank">
           <img
@@ -67,10 +69,19 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <!-- Cartão 3: Tempo de desenvolvimento (WakaTime) -->
+      <td align="center" valign="top" colspan="2">
+        <a href="https://backend-three-phi-87&#46;vercel&#46;app/api/wakatime?username=DiSerafim&theme=light_github" target="_blank">
+          <img
+            title="Tempo de Desenvolvimento (WakaTime)"
+            src="https://backend-three-phi-87&#46;vercel&#46;app/api/wakatime?username=DiSerafim&theme=light_github"
+          />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
-
-
   
 <br />
 
