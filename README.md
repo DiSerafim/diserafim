@@ -49,26 +49,27 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" valign="top" width="50%">
-        <a href="https://SEU_SUBDOMINIO.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github" target="_blank">
+        <a href="https://backend-three-phi-87&#46;vercel&#46;app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github" target="_blank">
           <img
             title="Linguagens + usadas"
             height="400"
-            src="https://SEU_SUBDOMINIO.vercel.app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github"
+            src="https://backend-three-phi-87&#46;vercel&#46;app/api/top-langs?username=DiSerafim&langs_count=20&theme=light_github"
           />
         </a>
       </td>
       <td align="center" valign="top" width="50%">
-        <a href="https://SEU_SUBDOMINIO.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github" target="_blank">
+        <a href="https://backend-three-phi-87&#46;vercel&#46;app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github" target="_blank">
           <img
             title="Estatísticas Gerais"
             height="400"
-            src="https://SEU_SUBDOMINIO.vercel.app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github"
+            src="https://backend-three-phi-87&#46;vercel&#46;app/api?username=DiSerafim&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github"
           />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
   
 <br />
